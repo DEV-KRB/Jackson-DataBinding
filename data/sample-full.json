@@ -1,0 +1,15 @@
+{
+	"id": 8,
+	"firstName": "Kavya",
+	"lastName": "Bansore",
+	"active": true,
+	"address": {
+		"street": "71 Maheshvihar colony",
+		"city": "Ujjain",
+		"state": "Madhya Pradesh",
+		"zip": "456010",
+		"country": "India",
+		"company": "Eculant"
+	},
+	"languages" : ["Java", "C++", "Python", "Javascript"]
+}
